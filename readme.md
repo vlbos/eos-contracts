@@ -7,6 +7,10 @@ A collection of open source EOS Smart Contracts.
 Smart contracts that provide some of the basic functions of the EOSIO blockchain.     
 https://github.com/EOSIO/eosio.contracts
 
+### telos contracts
+Smart contracts that provide some of the basic functions of the Telos blockchain.   
+https://github.com/Telos-Foundation/eosio.contracts
+
 ### elemental battles
 
 Elemental Battles Tutorial Lessons.  
@@ -374,22 +378,47 @@ https://github.com/eoscafe/gravatarcafe
 Simple messenger using eos network.   
 https://eosplace.github.io/eosmsg
 
-Credits
+### merkle proof
+
+EOS smart contract to verify merkle proofs.   
+https://github.com/miguelmota/eos-merkle-proof/   
+
+### ducor eos
+
+Ducatur oracles eos smart contract.      
+https://github.com/DucaturFw/ducor-eos.
+
+### eos contract example
+
+eos contracts example. check out erase contract.   
+https://github.com/clockknock/eos-contract-example 
+
+## eos contract test
+eos contract test simple framework on local chain instance.  
+https://github.com/cryptokylin/eos_contract_test
+
+## squeakr  
+Squeakr is a demo application designed to showcase the power of privEOS. It is basically a simple form of Twitter on the blockchain, but all tweets are private. Only approved followers can see the tweets. The app pays for any privEOS fees. The service is free for the users.   
+https://github.com/rawrat/squeakr
+
+## eos encrypt
+Allows to encrypt & decypt a message with an EOS key pair using AES shared key encryption mechanism.  
+Decryption is achieved by combining the receiver's private key and the sender's public key to create the private key necessary to decrypt the message.   
+https://github.com/EOS-Nation/eos-encrypt
+
+
+## eos delay  
+Delayed transaction.   
+https://github.com/ethgamble/eosdelay    
+
+
+## eos scrow
+
+Universal EOS escrow contract .  
+https://github.com/eos-geneva/escrowescrow
+
+
+**Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
 - https://github.com/abhi3700/My_Learning_EOS
-
----
-
-## About EOS Costa Rica
-<p align="center">
-	<a href="https://eoscostarica.io">
-		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="300">
-	</a>
-</p>
-
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
-
-EOS Costa Rica supports the EOS.io community by maintaining and contributing to open source initiatives, meetups and workshops.
-
-[eoscostarica.io](https://eoscostarica.io)
